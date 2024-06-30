@@ -1,0 +1,26 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Lingala Rajesh",
+      "email": "rajeshlingala08@gmdail.com",
+      "mobile": "9346905812",
+      "age": "25",
+      "DateofBirth": "2000-06514"
+    },
+    {
+      "name": "RAJESH LINGALA",
+      "email": "rajeshlingala08@gmail.com",
+      "mobile": "9346958120",
+      "age": "33",
+      "id": 3
+    },
+    {
+      "name": "RAJESH LINGALA",
+      "email": "rajeshlingala08@gmail.com",
+      "mobile": "9346905812",
+      "age": "25",
+      "id": 4
+    }
+  ]
+}
